@@ -20,3 +20,6 @@ def exponentiation(num, pow):
 
 result = exponentiation(2, 6) # this now equals 64
 print(result) # 64
+
+
+# I made some edits here!
